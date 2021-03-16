@@ -5,7 +5,7 @@
     font-family: Arial, Helvetica, sans-serif;
 }
 h1{
-    font-size: 24px;
+    font-size: 28px;
 }
 h2, p{
     color: #444851;
@@ -23,12 +23,15 @@ h2, p{
     display: inline-block;
     background-color: rgba(255, 255, 255, 1);
 }
+#logo{
+    vertical-align: middle;
+}
 .nav-top #logo{
     margin: 0 0 0 16px;
 }
 .nav-top h1{
     display: inline-block;
-    margin-bottom: 16px;
+    margin-top: 16px;
 }
 .todo-box{
     width: 70%;
